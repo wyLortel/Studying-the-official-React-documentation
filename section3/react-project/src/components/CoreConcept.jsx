@@ -1,5 +1,4 @@
-
-export default function CoreConcept({ title, description }) {
+  export default function CoreConcept({ title, description }) {
   return (
     <li>
       <h3>{title}</h3>
